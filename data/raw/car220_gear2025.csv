@@ -1,0 +1,329 @@
+National Marine Fisheries Service
+P.O. Box 21668
+Juneau AK  99802-1668
+
+2025 Bering Sea Aleutian Islands and Gulf of Alaska Report by Gear Type
+
+Data are from Weekly Production and Observer Reports (includes CDQ)
+
+December 31 2025
+
+BSAI = Bering Sea and Aleutian Islands
+GOA  = Gulf of Alaska
+REPORTING AREA  = Federal Reporting Area
+Weight in round metric tons
+Screened for confidentiality - three or more processors reporting for each row
+
+GEAR NAMES
+
+HAL = Hook-and-line gear
+JIG = Jig gear
+NPT = Non-pelagic trawl gear
+POT = Pot gear
+PTR = Pelagic trawl gear
+
+
+FMP AREA,REPORTING AREA,GEAR,SPECIES,SPECIES GROUP NAME,METRIC TONS
+BSAI,,HAL,AKPL,BSAI Alaska Plaice,1
+BSAI,,HAL,AMCK,Atka Mackerel,13
+BSAI,,HAL,ARTH,Arrowtooth Flounder,1016
+BSAI,,HAL,FLO5,BSAI Other Flatfish,63
+BSAI,,HAL,FSOL,Flathead Sole,624
+BSAI,,HAL,GTRB,Greenland Turbot,9
+BSAI,,HAL,KMKA,BSAI Kamchatka Flounder,70
+BSAI,,HAL,NORK,Northern Rockfish,49
+BSAI,,HAL,OCTP,Octopus,33
+BSAI,,HAL,PCOD,Pacific Cod,63627
+BSAI,,HAL,PLCK,Pollock,4913
+BSAI,,HAL,POPA,Pacific Ocean Perch,4
+BSAI,,HAL,REYE,Rougheye Rockfish,28
+BSAI,,HAL,ROCK,Other Rockfish,124
+BSAI,,HAL,RSOL,Rock Sole,18
+BSAI,,HAL,SABL,Sablefish,89
+BSAI,,HAL,SRKR,Shortraker Rockfish,11
+BSAI,,HAL,USKT,BSAI Skate and GOA Skate Other,19284
+BSAI,,HAL,USRK,Shark,28
+BSAI,,HAL,YSOL,Yellowfin Sole,719
+BSAI,,NPT,AKPL,BSAI Alaska Plaice,7111
+BSAI,,NPT,AMCK,Atka Mackerel,80577
+BSAI,,NPT,ARTH,Arrowtooth Flounder,8010
+BSAI,,NPT,FLO5,BSAI Other Flatfish,4876
+BSAI,,NPT,FSOL,Flathead Sole,6416
+BSAI,,NPT,GTRB,Greenland Turbot,572
+BSAI,,NPT,KMKA,BSAI Kamchatka Flounder,4949
+BSAI,,NPT,NORK,Northern Rockfish,7946
+BSAI,,NPT,OCTP,Octopus,14
+BSAI,,NPT,PCOD,Pacific Cod,41188
+BSAI,,NPT,PLCK,Pollock,29832
+BSAI,,NPT,POPA,Pacific Ocean Perch,28440
+BSAI,,NPT,REYE,Rougheye Rockfish,606
+BSAI,,NPT,ROCK,Other Rockfish,852
+BSAI,,NPT,RSOL,Rock Sole,41057
+BSAI,,NPT,SABL,Sablefish,2904
+BSAI,,NPT,SRKR,Shortraker Rockfish,157
+BSAI,,NPT,USKT,BSAI Skate and GOA Skate Other,1919
+BSAI,,NPT,USRK,Shark,15
+BSAI,,NPT,YSOL,Yellowfin Sole,91018
+BSAI,,POT,AMCK,Atka Mackerel,11
+BSAI,,POT,ARTH,Arrowtooth Flounder,39
+BSAI,,POT,FLO5,BSAI Other Flatfish,12
+BSAI,,POT,FSOL,Flathead Sole,3
+BSAI,,POT,GTRB,Greenland Turbot,5
+BSAI,,POT,KMKA,BSAI Kamchatka Flounder,4
+BSAI,,POT,NORK,Northern Rockfish,1
+BSAI,,POT,OCTP,Octopus,267
+BSAI,,POT,PCOD,Pacific Cod,16138
+BSAI,,POT,PLCK,Pollock,25
+BSAI,,POT,ROCK,Other Rockfish,2
+BSAI,,POT,RSOL,Rock Sole,1
+BSAI,,POT,SABL,Sablefish,1661
+BSAI,,POT,USKT,BSAI Skate and GOA Skate Other,1
+BSAI,,POT,YSOL,Yellowfin Sole,58
+BSAI,,PTR,AKPL,BSAI Alaska Plaice,1
+BSAI,,PTR,AMCK,Atka Mackerel,12
+BSAI,,PTR,ARTH,Arrowtooth Flounder,244
+BSAI,,PTR,FLO5,BSAI Other Flatfish,431
+BSAI,,PTR,FSOL,Flathead Sole,1731
+BSAI,,PTR,GTRB,Greenland Turbot,32
+BSAI,,PTR,KMKA,BSAI Kamchatka Flounder,23
+BSAI,,PTR,NORK,Northern Rockfish,53
+BSAI,,PTR,OCTP,Octopus,2
+BSAI,,PTR,PCOD,Pacific Cod,3119
+BSAI,,PTR,PLCK,Pollock,1296014
+BSAI,,PTR,POPA,Pacific Ocean Perch,3925
+BSAI,,PTR,REYE,Rougheye Rockfish,13
+BSAI,,PTR,ROCK,Other Rockfish,51
+BSAI,,PTR,RSOL,Rock Sole,411
+BSAI,,PTR,SABL,Sablefish,38
+BSAI,,PTR,SRKR,Shortraker Rockfish,143
+BSAI,,PTR,USKT,BSAI Skate and GOA Skate Other,403
+BSAI,,PTR,USRK,Shark,156
+BSAI,,PTR,YSOL,Yellowfin Sole,19
+GOA,610,HAL,ARTH,Arrowtooth Flounder,22
+GOA,610,HAL,BSKT,GOA Skate Big,80
+GOA,610,HAL,DEM1,GOA Demersal Shelf Rockfish,42
+GOA,610,HAL,DFL4,GOA Deep Water Flatfish,1
+GOA,610,HAL,DUSK,GOA Dusky Rockfish,1
+GOA,610,HAL,LSKT,GOA Skate Longnose,59
+GOA,610,HAL,NORK,Northern Rockfish,1
+GOA,610,HAL,OCTP,Octopus,18
+GOA,610,HAL,PCOD,Pacific Cod,1161
+GOA,610,HAL,PLCK,Pollock,8
+GOA,610,HAL,ROCK,Other Rockfish,21
+GOA,610,HAL,SABL,Sablefish,116
+GOA,610,HAL,SFL1,GOA Shallow Water Flatfish,9
+GOA,610,HAL,THDS,GOA Thornyhead Rockfish,3
+GOA,610,HAL,USKT,BSAI Skate and GOA Skate Other,101
+GOA,610,HAL,USRK,Shark,92
+GOA,610,NPT,AMCK,Atka Mackerel,440
+GOA,610,NPT,ARTH,Arrowtooth Flounder,94
+GOA,610,NPT,DEM1,GOA Demersal Shelf Rockfish,4
+GOA,610,NPT,DUSK,GOA Dusky Rockfish,64
+GOA,610,NPT,FSOL,Flathead Sole,10
+GOA,610,NPT,NORK,Northern Rockfish,464
+GOA,610,NPT,PCOD,Pacific Cod,1883
+GOA,610,NPT,PLCK,Pollock,132
+GOA,610,NPT,POPA,Pacific Ocean Perch,1611
+GOA,610,NPT,REXS,GOA Rex Sole,11
+GOA,610,NPT,REYE,Rougheye Rockfish,53
+GOA,610,NPT,ROCK,Other Rockfish,62
+GOA,610,NPT,SABL,Sablefish,39
+GOA,610,NPT,SFL1,GOA Shallow Water Flatfish,96
+GOA,610,NPT,SRKR,Shortraker Rockfish,2
+GOA,610,NPT,THDS,GOA Thornyhead Rockfish,14
+GOA,610,NPT,USKT,BSAI Skate and GOA Skate Other,9
+GOA,610,POT,ARTH,Arrowtooth Flounder,10
+GOA,610,POT,DEM1,GOA Demersal Shelf Rockfish,13
+GOA,610,POT,NORK,Northern Rockfish,1
+GOA,610,POT,OCTP,Octopus,31
+GOA,610,POT,PCOD,Pacific Cod,2251
+GOA,610,POT,PLCK,Pollock,1
+GOA,610,POT,SABL,Sablefish,2981
+GOA,610,POT,THDS,GOA Thornyhead Rockfish,1
+GOA,610,PTR,ARTH,Arrowtooth Flounder,141
+GOA,610,PTR,DUSK,GOA Dusky Rockfish,3
+GOA,610,PTR,FSOL,Flathead Sole,54
+GOA,610,PTR,PCOD,Pacific Cod,77
+GOA,610,PTR,PLCK,Pollock,13889
+GOA,610,PTR,POPA,Pacific Ocean Perch,188
+GOA,610,PTR,REXS,GOA Rex Sole,1
+GOA,610,PTR,REYE,Rougheye Rockfish,2
+GOA,610,PTR,USRK,Shark,66
+GOA,620,HAL,ARTH,Arrowtooth Flounder,22
+GOA,620,HAL,BSKT,GOA Skate Big,104
+GOA,620,HAL,DEM1,GOA Demersal Shelf Rockfish,30
+GOA,620,HAL,DFL4,GOA Deep Water Flatfish,3
+GOA,620,HAL,LSKT,GOA Skate Longnose,93
+GOA,620,HAL,OCTP,Octopus,12
+GOA,620,HAL,PCOD,Pacific Cod,759
+GOA,620,HAL,PLCK,Pollock,8
+GOA,620,HAL,REYE,Rougheye Rockfish,1
+GOA,620,HAL,ROCK,Other Rockfish,14
+GOA,620,HAL,SABL,Sablefish,37
+GOA,620,HAL,SFL1,GOA Shallow Water Flatfish,3
+GOA,620,HAL,SRKR,Shortraker Rockfish,1
+GOA,620,HAL,USKT,BSAI Skate and GOA Skate Other,67
+GOA,620,HAL,USRK,Shark,199
+GOA,620,NPT,AMCK,Atka Mackerel,510
+GOA,620,NPT,ARTH,Arrowtooth Flounder,6802
+GOA,620,NPT,BSKT,GOA Skate Big,13
+GOA,620,NPT,DEM1,GOA Demersal Shelf Rockfish,52
+GOA,620,NPT,DFL4,GOA Deep Water Flatfish,39
+GOA,620,NPT,DUSK,GOA Dusky Rockfish,1306
+GOA,620,NPT,FSOL,Flathead Sole,251
+GOA,620,NPT,LSKT,GOA Skate Longnose,34
+GOA,620,NPT,NORK,Northern Rockfish,1156
+GOA,620,NPT,PCOD,Pacific Cod,751
+GOA,620,NPT,PLCK,Pollock,972
+GOA,620,NPT,POPA,Pacific Ocean Perch,4426
+GOA,620,NPT,REXS,GOA Rex Sole,241
+GOA,620,NPT,REYE,Rougheye Rockfish,82
+GOA,620,NPT,ROCK,Other Rockfish,105
+GOA,620,NPT,SABL,Sablefish,522
+GOA,620,NPT,SFL1,GOA Shallow Water Flatfish,91
+GOA,620,NPT,SRKR,Shortraker Rockfish,15
+GOA,620,NPT,THDS,GOA Thornyhead Rockfish,36
+GOA,620,NPT,USKT,BSAI Skate and GOA Skate Other,8
+GOA,620,NPT,USRK,Shark,31
+GOA,620,POT,ARTH,Arrowtooth Flounder,6
+GOA,620,POT,DEM1,GOA Demersal Shelf Rockfish,10
+GOA,620,POT,OCTP,Octopus,16
+GOA,620,POT,PCOD,Pacific Cod,488
+GOA,620,POT,SABL,Sablefish,899
+GOA,620,PTR,ARTH,Arrowtooth Flounder,66
+GOA,620,PTR,BSKT,GOA Skate Big,50
+GOA,620,PTR,DUSK,GOA Dusky Rockfish,2
+GOA,620,PTR,FSOL,Flathead Sole,6
+GOA,620,PTR,LSKT,GOA Skate Longnose,3
+GOA,620,PTR,PCOD,Pacific Cod,69
+GOA,620,PTR,PLCK,Pollock,78497
+GOA,620,PTR,POPA,Pacific Ocean Perch,331
+GOA,620,PTR,REXS,GOA Rex Sole,3
+GOA,620,PTR,REYE,Rougheye Rockfish,4
+GOA,620,PTR,SABL,Sablefish,1
+GOA,620,PTR,SFL1,GOA Shallow Water Flatfish,20
+GOA,620,PTR,SRKR,Shortraker Rockfish,6
+GOA,620,PTR,USKT,BSAI Skate and GOA Skate Other,2
+GOA,620,PTR,USRK,Shark,53
+GOA,630,HAL,ARTH,Arrowtooth Flounder,109
+GOA,630,HAL,BSKT,GOA Skate Big,1156
+GOA,630,HAL,DEM1,GOA Demersal Shelf Rockfish,73
+GOA,630,HAL,DFL4,GOA Deep Water Flatfish,13
+GOA,630,HAL,DUSK,GOA Dusky Rockfish,2
+GOA,630,HAL,FSOL,Flathead Sole,1
+GOA,630,HAL,LSKT,GOA Skate Longnose,520
+GOA,630,HAL,OCTP,Octopus,9
+GOA,630,HAL,PCOD,Pacific Cod,2651
+GOA,630,HAL,PLCK,Pollock,49
+GOA,630,HAL,REYE,Rougheye Rockfish,4
+GOA,630,HAL,ROCK,Other Rockfish,32
+GOA,630,HAL,SABL,Sablefish,625
+GOA,630,HAL,SFL1,GOA Shallow Water Flatfish,3
+GOA,630,HAL,SRKR,Shortraker Rockfish,12
+GOA,630,HAL,THDS,GOA Thornyhead Rockfish,4
+GOA,630,HAL,USKT,BSAI Skate and GOA Skate Other,261
+GOA,630,HAL,USRK,Shark,588
+GOA,630,JIG,DEM1,GOA Demersal Shelf Rockfish,1
+GOA,630,JIG,DUSK,GOA Dusky Rockfish,1
+GOA,630,JIG,PCOD,Pacific Cod,444
+GOA,630,JIG,ROCK,Other Rockfish,1
+GOA,630,NPT,AMCK,Atka Mackerel,13
+GOA,630,NPT,ARTH,Arrowtooth Flounder,5741
+GOA,630,NPT,BSKT,GOA Skate Big,296
+GOA,630,NPT,DEM1,GOA Demersal Shelf Rockfish,9
+GOA,630,NPT,DFL4,GOA Deep Water Flatfish,21
+GOA,630,NPT,DUSK,GOA Dusky Rockfish,632
+GOA,630,NPT,FSOL,Flathead Sole,551
+GOA,630,NPT,LSKT,GOA Skate Longnose,67
+GOA,630,NPT,NORK,Northern Rockfish,54
+GOA,630,NPT,PCOD,Pacific Cod,5087
+GOA,630,NPT,PLCK,Pollock,1281
+GOA,630,NPT,POPA,Pacific Ocean Perch,6793
+GOA,630,NPT,REXS,GOA Rex Sole,335
+GOA,630,NPT,REYE,Rougheye Rockfish,28
+GOA,630,NPT,ROCK,Other Rockfish,97
+GOA,630,NPT,SABL,Sablefish,441
+GOA,630,NPT,SFL1,GOA Shallow Water Flatfish,1928
+GOA,630,NPT,SRKR,Shortraker Rockfish,30
+GOA,630,NPT,THDS,GOA Thornyhead Rockfish,29
+GOA,630,NPT,USKT,BSAI Skate and GOA Skate Other,24
+GOA,630,NPT,USRK,Shark,74
+GOA,630,POT,ARTH,Arrowtooth Flounder,35
+GOA,630,POT,DEM1,GOA Demersal Shelf Rockfish,7
+GOA,630,POT,OCTP,Octopus,30
+GOA,630,POT,PCOD,Pacific Cod,3669
+GOA,630,POT,PLCK,Pollock,2
+GOA,630,POT,REYE,Rougheye Rockfish,1
+GOA,630,POT,ROCK,Other Rockfish,1
+GOA,630,POT,SABL,Sablefish,5174
+GOA,630,POT,SFL1,GOA Shallow Water Flatfish,1
+GOA,630,POT,THDS,GOA Thornyhead Rockfish,1
+GOA,630,PTR,AMCK,Atka Mackerel,4
+GOA,630,PTR,ARTH,Arrowtooth Flounder,256
+GOA,630,PTR,BSKT,GOA Skate Big,62
+GOA,630,PTR,DUSK,GOA Dusky Rockfish,250
+GOA,630,PTR,FSOL,Flathead Sole,58
+GOA,630,PTR,LSKT,GOA Skate Longnose,5
+GOA,630,PTR,NORK,Northern Rockfish,6
+GOA,630,PTR,PCOD,Pacific Cod,224
+GOA,630,PTR,PLCK,Pollock,37881
+GOA,630,PTR,POPA,Pacific Ocean Perch,13025
+GOA,630,PTR,REXS,GOA Rex Sole,12
+GOA,630,PTR,REYE,Rougheye Rockfish,12
+GOA,630,PTR,ROCK,Other Rockfish,52
+GOA,630,PTR,SABL,Sablefish,2
+GOA,630,PTR,SFL1,GOA Shallow Water Flatfish,31
+GOA,630,PTR,SRKR,Shortraker Rockfish,294
+GOA,630,PTR,THDS,GOA Thornyhead Rockfish,3
+GOA,630,PTR,USRK,Shark,27
+GOA,640,HAL,ARTH,Arrowtooth Flounder,16
+GOA,640,HAL,BSKT,GOA Skate Big,73
+GOA,640,HAL,DEM1,GOA Demersal Shelf Rockfish,49
+GOA,640,HAL,DFL4,GOA Deep Water Flatfish,5
+GOA,640,HAL,LSKT,GOA Skate Longnose,374
+GOA,640,HAL,OCTP,Octopus,4
+GOA,640,HAL,PCOD,Pacific Cod,374
+GOA,640,HAL,REYE,Rougheye Rockfish,13
+GOA,640,HAL,ROCK,Other Rockfish,9
+GOA,640,HAL,SABL,Sablefish,410
+GOA,640,HAL,SFL1,GOA Shallow Water Flatfish,22
+GOA,640,HAL,SRKR,Shortraker Rockfish,15
+GOA,640,HAL,THDS,GOA Thornyhead Rockfish,8
+GOA,640,HAL,USKT,BSAI Skate and GOA Skate Other,55
+GOA,640,HAL,USRK,Shark,415
+GOA,640,POT,ARTH,Arrowtooth Flounder,6
+GOA,640,POT,DEM1,GOA Demersal Shelf Rockfish,1
+GOA,640,POT,REYE,Rougheye Rockfish,3
+GOA,640,POT,SABL,Sablefish,1725
+GOA,640,POT,SRKR,Shortraker Rockfish,1
+GOA,640,PTR,PLCK,Pollock,1852
+GOA,640,PTR,POPA,Pacific Ocean Perch,20
+GOA,640,PTR,REYE,Rougheye Rockfish,2
+GOA,640,PTR,SRKR,Shortraker Rockfish,2
+GOA,649,HAL,PCOD,Pacific Cod,142
+GOA,650,HAL,ARTH,Arrowtooth Flounder,21
+GOA,650,HAL,BSKT,GOA Skate Big,75
+GOA,650,HAL,DEM1,GOA Demersal Shelf Rockfish,209
+GOA,650,HAL,DFL4,GOA Deep Water Flatfish,4
+GOA,650,HAL,DUSK,GOA Dusky Rockfish,1
+GOA,650,HAL,LSKT,GOA Skate Longnose,127
+GOA,650,HAL,OCTP,Octopus,7
+GOA,650,HAL,PCOD,Pacific Cod,68
+GOA,650,HAL,PLCK,Pollock,2
+GOA,650,HAL,REYE,Rougheye Rockfish,38
+GOA,650,HAL,ROCK,Other Rockfish,21
+GOA,650,HAL,SABL,Sablefish,1530
+GOA,650,HAL,SRKR,Shortraker Rockfish,33
+GOA,650,HAL,THDS,GOA Thornyhead Rockfish,20
+GOA,650,HAL,USKT,BSAI Skate and GOA Skate Other,62
+GOA,650,HAL,USRK,Shark,678
+GOA,650,JIG,DEM1,GOA Demersal Shelf Rockfish,5
+GOA,650,POT,ARTH,Arrowtooth Flounder,28
+GOA,650,POT,DEM1,GOA Demersal Shelf Rockfish,2
+GOA,650,POT,DFL4,GOA Deep Water Flatfish,1
+GOA,650,POT,OCTP,Octopus,1
+GOA,650,POT,REYE,Rougheye Rockfish,12
+GOA,650,POT,ROCK,Other Rockfish,1
+GOA,650,POT,SABL,Sablefish,3717
+GOA,650,POT,SRKR,Shortraker Rockfish,1
+GOA,650,POT,THDS,GOA Thornyhead Rockfish,2

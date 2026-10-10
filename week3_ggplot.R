@@ -1,3 +1,5 @@
+# Part 1: Build a basic plot
+
 library(EVR628tools)
 library(tidyverse)
 data(data_lionfish)
@@ -20,10 +22,14 @@ ggplot(data = data_lionfish,
        subtitle = "Larger fish tend to live deeper",
        caption = "Source EVR628tools::data_lionfish")
 
+#2) Visualizing distributions
+
 ggplot(data = data_lionfish, aes(x = site)) +
   geom_bar() +
   coord_flip() +
   labs(x = "Site", y = "Number of fish")
+
+#2b) Visualize the numeric variable
 
 ggplot(data = data_lionfish, aes(x = total_length_mm)) +
   geom_histogram(bins = 15) +
@@ -32,6 +38,10 @@ ggplot(data = data_lionfish, aes(x = total_length_mm)) +
 ggplot(data = data_lionfish, aes(x = size_class, y = depth_m)) +
   geom_boxplot() +
   labs(x = "Size class", y = "Depth (m)")
+
+ggplot(data = data_lionfish, aes(x = size_class, y = depth_m)) +
+  geom_violin() +
+  geom_jitter(height = 0, width = 0.1, alpha = 0.5)
 
 ggplot(data = data_lionfish, aes(x = site, y = size_class)) +
   geom_bin2d() +
@@ -51,19 +61,17 @@ p <- ggplot(data = data_lionfish,
        aes(x = depth_m, y = total_length_mm, 
            size = total_weight_gr,
            color = temperature_C)) +
-  geom_point() +
+  geom_point(shape = 21,) +
   scale_size_continuous(range = c(1, 5)) +
   labs(x = "Depth (m)", y = "Total length (mm)", 
-       size = "Weight (gr)", color = "Temperature (°C)") +
-  scale_color_viridis_c()
+       size = "Weight (gr)", color = "Temperature (°C)", fill = "Temperature (°C)") +
+  scale_fill_viridis_c(scale_color_viridis_c(option = "mako", direction = -1))
 p
-
-p + 
-  scale_color_viridis_c(option = "mako")
 
 p +
   scale_color_gradientn(colours = palette_IPCC(var = "temp", type = "seq"))
 
+                       
 p +
   scale_color_gradient(low = "green",
                        high = "orange")
